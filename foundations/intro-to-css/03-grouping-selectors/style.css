@@ -1,0 +1,14 @@
+button {
+    font-family: Arial;
+    font-size: 2em;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+    color: black;
+}

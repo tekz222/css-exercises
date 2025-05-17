@@ -1,0 +1,23 @@
+p, div {
+    width: 100%;
+}
+
+.nigger {
+    background-color: lightcoral;
+}
+
+.nigger.cooler {
+    font-size: 1.4em;
+}
+
+#black {
+    font-size: 1.7em;
+    color: blue;
+}
+
+#black2 {
+    background-color: aquamarine;
+    font-weight: bold;
+    color: black;
+    font-size: 1.2em;
+}
