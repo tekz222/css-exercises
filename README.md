@@ -1,0 +1,1 @@
+A list of exercises made by The Odin Project for the CSS introduction section of its Web Development course curriculum.
